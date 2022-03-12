@@ -1,11 +1,11 @@
 # Overview
 
-It is public template of assignment `"labrabota 3"` for FPMI students
+It is repository for labrabota 3 task 1.
 
 # Usage
 
-Please, edit README and add some details, as instance **{add your last name, first name and group number}**.
+**Ivanova Mariya. Group 15**.
 
 # Building
 
-Please, import repository and use for repl.it project, which is defined in the assignment "labrabota 3".
+This repository was imported for making labrabota 3 task 1.
