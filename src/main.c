@@ -5,6 +5,7 @@ given sentences */
 #include <stdio.h>
 #include <string.h>
 
+// Counts given letter in a sentence
 int countLetterInSentence(char* letter, char* sentence)
 {
   int counter = 0;
